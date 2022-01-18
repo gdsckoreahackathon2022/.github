@@ -10,7 +10,7 @@ Google Developer Student Clubs Korea에서 지역∙사회 문제 해결을 위�
 
 
 
-![gdsc image](./profile/contents/opengraph_image.png)
+![gdsc image](./profile/contents/gdsc_image.png)
 
 
 
