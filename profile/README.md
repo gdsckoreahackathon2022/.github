@@ -33,6 +33,7 @@ GDSC KR Winter Hack은 코로나 사태에 따라 온라인(디스코드)으로 
 ## 지원 일정과 지원 방법
 
 - 신청 기간 : 01/19(수) ~ 01/28(금)
+- 신청 플랫폼 : [원티드 GDSC KR Winter Hack 페이지](https://www.wanted.co.kr/events/gdsckrwinterhackathon2022)
 - GDSC KR Winter Hack에 참여하기 위해선 팀장이 GDSC 소속 구성원이여야 합니다.
 - 선착순 50팀까지 신청 가능하며, 최대 4인까지 구성 가능합니다.
 
