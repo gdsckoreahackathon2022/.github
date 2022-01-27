@@ -91,7 +91,7 @@ GDSC KR Winter Hack은 코로나 사태에 따라 온라인(디스코드)으로 
 
 ## 후원사
 
-Google, Melixir, Wanted, +
+Google, Melixir, LINE, Wanted, +
 추후 업데이트될 예정입니다.
 
 ## 스태프
