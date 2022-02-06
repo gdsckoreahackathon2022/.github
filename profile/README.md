@@ -10,6 +10,43 @@ Google Developer Student Clubs Korea에서 지역∙사회 문제 해결을 위�
 
 GDSC(Google Developer Student Clubs)은 Google Developers에서 제공하는 프로그램으로, 대학교를 기반으로 하는 개발자 커뮤니티 그룹입니다. GDSC의 학생들은 peer-to-peer 학습 환경에서 역량을 키우고 공동체와 지역사회를 위한 솔루션 구축을 목표로 합니다.
 
+## [22년 2월 6일 우승자 업데이트]
+
+### 대상
+-  CnB
+  - 팀원: 이준용, 정지윤, 한태규, 유성주
+  - 프로젝트: [티끌](https://github.com/gdsckoreahackathon2022/07_CnB)
+### 최우수상
+- 잔다르크
+  - 팀원: 오송경, 장지현, 장윤주
+  - 프로젝트: [효자손](https://github.com/gdsckoreahackathon2022/23_hyojason)
+- 홈워크
+  - 팀원: 이진아, 나정후, 이하은, 공혁준
+  - 프로젝트: [홈워크](https://github.com/gdsckoreahackathon2022/36_Homework)
+### 우수상
+- AH-HA
+  - 팀원: 호선우, 김현아, 이소희, 강희원
+  - 프로젝트: [EasyPeasy](https://github.com/gdsckoreahackathon2022/32_EasyPeasy)
+- 가보자고
+  - 팀원: 김보경, 조소연, 강정인, 김혜송
+  - 프로젝트: [녹색탐지기](https://github.com/gdsckoreahackathon2022/42_Gabojago)
+- 초록초록
+  - 팀원: 신지민, 김현균, 박현서, 유다빈
+  - 프로젝트: [초록초록](https://github.com/gdsckoreahackathon2022/38_GreenGreen)
+### 장려상
+- GISTree
+  - 팀원: 김철희, 이준명, 신동민
+  - 프로젝트: [Trash Fresh](https://github.com/gdsckoreahackathon2022/35_GISTree)
+- 튀김조심
+  - 팀원: 심수연, 김소정, 김여원, 조용환
+  - 프로젝트: [아름들기](https://github.com/gdsckoreahackathon2022/15_areum-deulgi)
+- 다다른
+  - 팀원: 최원혁, 강다인, 신형철, 김예은
+  - 프로젝트: [GeDi](https://github.com/gdsckoreahackathon2022/24_GeDi)
+- Glitter
+  - 팀원: 김진성, 남윤지, 박희준, 최우영
+  - 프로젝트: [Check Check](https://github.com/gdsckoreahackathon2022/33_Glitter)
+
 ### 진행 장소와 일정
 
 GDSC KR Winter Hack은 코로나 사태에 따라 온라인(디스코드)으로 진행됩니다. 디스코드 입장 링크는 참가 확인 메일과 함께 발송됩니다.
@@ -46,7 +83,7 @@ GDSC KR Winter Hack은 코로나 사태에 따라 온라인(디스코드)으로 
 
 ### 수상
 
-대상, 최우수상, 우수상, 장려상, 기타 순으로 시상합니다. 
+대상(1), 최우수상(2), 우수상(3), 장려상(4) 순으로 시상합니다. 
 
 ### 심사기준
 
@@ -70,7 +107,7 @@ GDSC KR Winter Hack은 코로나 사태에 따라 온라인(디스코드)으로 
 
 ### 심사위원
 
-추후 공개될 예정입니다.
+조은님, 이정윤님, 배필주님, 조희주님, 김헌진님, 
 
 ## 규칙
 
@@ -91,7 +128,7 @@ GDSC KR Winter Hack은 코로나 사태에 따라 온라인(디스코드)으로 
 
 ## 후원사
 
-Google, Melixir, LINE, Wanted, FRESHCODE, 한빛미디어
+Google, Melixir, Wanted, LINE, FRESHCODE, 한빛미디어
 
 ## 스태프
 
