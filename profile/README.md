@@ -10,7 +10,7 @@ Google Developer Student Clubs Korea에서 지역∙사회 문제 해결을 위�
 
 GDSC(Google Developer Student Clubs)은 Google Developers에서 제공하는 프로그램으로, 대학교를 기반으로 하는 개발자 커뮤니티 그룹입니다. GDSC의 학생들은 peer-to-peer 학습 환경에서 역량을 키우고 공동체와 지역사회를 위한 솔루션 구축을 목표로 합니다.
 
-## [22년 2월 6일 우승자 업데이트]
+## 수상팀
 
 ### 대상
 -  CnB
