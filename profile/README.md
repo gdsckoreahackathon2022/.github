@@ -14,8 +14,8 @@ GDSC(Google Developer Student Clubs)은 Google Developers에서 제공하는 프
 
 ### 대상
 -  CnB
-  - 팀원: 이준용, 정지윤, 한태규, 유성주
-  - 프로젝트: [티끌](https://github.com/gdsckoreahackathon2022/07_CnB)
+    - 팀원: 이준용, 정지윤, 한태규, 유성주
+    - 프로젝트: [티끌](https://github.com/gdsckoreahackathon2022/07_CnB)
 ### 최우수상
 - 잔다르크
   - 팀원: 오송경, 장지현, 장윤주
